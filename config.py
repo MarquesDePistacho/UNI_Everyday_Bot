@@ -1,5 +1,6 @@
 # config.py
 
-TOKEN = "7027242117:AAEGWvLY22_ewHc9WCzFS6TRbxt4hCYjtHQ"
-
-
+# TOKEN = ""
+TOKEN = input("Введите TOKEN: ")
+# GOOGLE_API_KEY = ''
+GOOGLE_API_KEY = input("Введите GOOGLE_API_KEY: ")
